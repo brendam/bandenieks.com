@@ -56,4 +56,4 @@ website: "bandenieks.com"
 
 This site is based on a memoir written by Augusts Bandenieks, translated by his daughter Aija Moon, and edited by his great grand-daughter Emily Moon.
 
-Each section will be posted sequentially. Italics denote clarifications or notations that were not in the original memoir.
+Italics denote clarifications or notations that were not in the original memoir.
