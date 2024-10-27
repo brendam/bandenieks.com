@@ -10,13 +10,17 @@ tags:
   - Vidzeme
 title: '1931: Death Of My Mother'
 image: 
+ # placement: 1
+  caption: "Janis and Arturs at mother's grave 1931"
+  focal_point: 'center'
+  preview_only: false
+  alt_text: two men next to a coffin
+
 
 ---
-[![Augusts mother's funeral 1931](http://farm5.static.flickr.com/4027/4271009832_7f268df494.jpg)](http://www.flickr.com/photos/64918212@N00/4271009832/ "Augusts mother's funeral 1931")
-
 After about six months in Snepele my mother died, it gave me a big shock.  Her intestines had twisted and she was taken to Kuldiga hospital where they operated, but it was too late. I was going to see her every day, 20 kilometres on my bicycle, but she died within a few days. I bought the coffin myself, as my brothers were not prepared to pay anything. I was very upset when I went to Ingas, we were close friends with Milda by then, and she comforted me which made us even closer.  Milda’s brother Adolfs harnessed two horses to the best sprung carriage and we went to my father’s farm for the funeral.  Mother’s brother had come from Pavilosta (where mother was born) where he was a director of a Baptist wind ensemble.  My oldest brother carried the cross and the other four sons carried the coffin and we lowered it in the grave. It was autumn.
 
-[![Digaini1931](http://farm5.static.flickr.com/4041/4271202860_31eaeb8ff6.jpg)](http://www.flickr.com/photos/64918212@N00/4271202860/ "Digaini1931")
+![Digaini 1931](4271202860_31eaeb8ff6_c.jpg "Augusts mother's funeral, family second row 1931")
 
 Also at the funeral were local people, about 50 altogether.
 After mother died I went more frequently to Ingas, my friendship more strengthened.

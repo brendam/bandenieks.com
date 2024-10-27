@@ -23,4 +23,4 @@ I am now surprised that we managed.  We got up at 4 AM with the sunrise.  Besi
 
 During my time there there was not a time that the factory was not operational. I considered my job not as a salaried employee but that I was personally responsible to get it done.
 
-[![Ingas 1931](http://farm3.static.flickr.com/2795/4271053294_a32a6c47bc.jpg)](http://www.flickr.com/photos/64918212@N00/4271053294/ "Ingas 1931")
+![people on ladder an man dressed as monster](4271053294_a32a6c47bc_c.jpg "Ingas Christmas celebrations 1931")

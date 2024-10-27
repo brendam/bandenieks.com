@@ -8,18 +8,20 @@ tags:
   - Digaini
 title: '1907: Digaini'
 image:
-  caption:
+  # placement: 1
+  caption: 'Digiani farm 1927'
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: Digiani farm buildings with plowed field in foreground
 summary:
 ---
-[![Digaini 1927](http://farm5.static.flickr.com/4031/4269736893_3fa7317658.jpg)](http://www.flickr.com/photos/64918212@N00/4269736893/ "Digaini 1927")
-
 The years will pass; I will not be on this earth. My daughters, or maybe my grandchildren, may become interested in where their father, or grandfather, came from. Thus I am writing my life history.
 
 I was born the 25th of June, 1907 at Digaini farm in Base district. _(Birth certificate shows 12_ _th_ _of June, 1907 in Moscow – Moscow was an error and the date from the old calendar.)_ I was born into a large family, we were five brothers and two sisters. The oldest brother was Adams, after him came sister Leva, brother Arturs, sister Alvine, myself, brother Janis and brother Alberts.
 
 Father’s farm was in a beautiful hilly area at the crossroads of Alsunga-Aipute road and Liepaja-Aizpute road.
 
-[![Digaini 1927](http://farm3.static.flickr.com/2702/4269727523_eb0a5e3827_m.jpg)](http://www.flickr.com/photos/64918212@N00/4269727523/ "Digaini 1927")
+![Person in door of Digaini farm 1927](digaini.jpg "Digaini 1927")
 
 My first memories are from when I was six-years-old, before 1914 – the start of the first World War. Father was not keen on farm work, he employed a farm labourer (manager) to run the farm. At the crossroads father built a small house and opened a shop with goods that are necessary on farms: kerosene, sugar, flour, salted herring, tobacco. The shop was about one kilometre from the farmhouse.
 

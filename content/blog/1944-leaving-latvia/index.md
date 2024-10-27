@@ -10,12 +10,14 @@ tags:
   - Liepaja
 title: '1944: Leaving Latvia'
 image: 
-
+  caption: "Milda's mother Lavize Lemchens 1940"
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: Milda's mother Lavize Lemchens 1940
 ---
 Because I had the motorbike and plenty of petrol I could get to Ingas any time -  it was about 100 kilometres and took me a couple of hours. After a couple weeks I did so to visit, the factory was in full production. I had a good assistant manager and was not missed till I was on the way to Germany when they rang looking for me, so I just disappeared.
 
-To leave for Germany we first went to Dizgaili about 20 kilometres from Liepaja. It was Adis (Milda’s brother) mother-in-law’s farm.  From Ingas we packed a horse cart for each family - Millers, Zanis Lemchens, us, and a labourer came with us to return the horses and carts. [![Lavize 1940](http://farm5.static.flickr.com/4028/4278110940_29b20fc7af_m.jpg)](http://www.flickr.com/photos/64918212@N00/4278110940/ "Lavize 1940")
-
+To leave for Germany we first went to Dizgaili about 20 kilometres from Liepaja. It was Adis (Milda’s brother) mother-in-law’s farm.  From Ingas we packed a horse cart for each family - Millers, Zanis Lemchens, us, and a labourer came with us to return the horses and carts. 
  
 > Aija: _Ingas’ grandmother refused to leave, her daughter Constance was a chronic TB patient and was considered unfit to travel. Also, she felt she had to stay and wait for Adis and his family to return from Siberia. She was sure that the Russians would not touch her as she was too old - however both she and Constance were sent to Siberia to the salt mines. Constance died there but grandmother returned to Latvia.  Adis children, Janis and Marite and their mother also returned._
 

@@ -8,11 +8,14 @@ tags:
   - Jekabpils
   - Krustpils
 title: '1927: National Service'
-image: 
+image:
+  # placement: 1
+  caption: 'Augusts and his brother Arturs 1930'
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: Augusts and his brother Arturs 1930
 
 ---
-[![Brohters 1930](http://farm3.static.flickr.com/2722/4270229025_ff2ea4f47f_m.jpg)](http://www.flickr.com/photos/64918212@N00/4270229025/ "Brohters 1930")
-
 I was assigned to the Latgale artillery corps which was stationed at Krustpils. On arrival there were about 1000 new recruits, we were lined up and divided into batteries. First all the university students were called out, then those that completed high school and those who had not completed high school. Then tradesmen and other workers were called. I applied as a milk factory bookkeeper and was assigned to headquarters as a bookkeeper. For army training I was assigned to the 4th battery for two months.
 
 I managed well during my days in national service – I was used to managing and overcoming life’s difficulties and was never punished. When I returned from the practical training, I was sent to supply section where all the bookkeepers shared a separated room. At the headquarters my superior was a bookkeeper, Lozberg, who was single and a musician. He sang and played the violin and was very kind to me; he called me Zonin, after his son. After a couple months I ordered a good army uniform to be made in the same style as an officer’s. I had saved a lot of money in my last year at work before the national service. I had about 700 Lati, which I had put in the government bank. A good suit cost 100 Lati, and the boots 20 Lati. I wore my personal uniform only to go to balls or when I went on holidays.

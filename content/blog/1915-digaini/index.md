@@ -7,11 +7,14 @@ description: ""
 tags:
   - Digaini
 title: '1915: Digaini'
-image: 
+image:
+  # placement: 1
+  caption: 'Digiani farm 1930'
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: Digiani farm buildings with snow
 
 ---
-[![Digaini 1930](http://farm5.static.flickr.com/4045/4270678760_9bef6c37ea.jpg)](http://www.flickr.com/photos/64918212@N00/4270678760/ "Digaini 1930")
-
 As the war neared, father shut the shop. One sunny day at lunch-time father asked me to go and check on the shop to see if everything was in order – no breaking-in or stealing. I had a good look, nothing had been touched. I was just starting for home when I saw the German horse patrol with tall lances held aloft. In fright, I tried to hide behind the building but they had already seen me. They rode around the building from both sides. I was very frightened, I thought that this was my last hour because of the terrible stories that were told about the Germans. They asked – I still remember – “Russe” _(“Russian?”)_ I just yelled that I didn’t understand. By this time the rest of the patrol had arrived; 15-20 men. “Aber here is eine kinder.” _(“Here is only a child.”)_ They all laughed very loudly to see me so frightened with wet running down my legs. Then, the Germans, still laughing, rode away toward Kuldiga. I was very happy to be safe, having survived meeting the Germans face-to-face.
 
 Some days later, refugees started pouring in along the road. The loaded carts with all of their belongings, and the farm animals: cows, sheep, were all mixed up with the Russian soldiers.

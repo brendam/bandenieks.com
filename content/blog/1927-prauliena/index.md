@@ -10,11 +10,15 @@ tags:
   - Prauliena
   - Kurzeme
 title: '1927: Prauliena'
-image: 
+image:
+  # placement: 1
+  caption: 'Augusts at work in Prauliena 1927'
+  focal_point: 'left'
+  preview_only: false
+  alt_text: Augusts at work in Prauliena 1927
+
 
 ---
-[![Prauliena 1927](http://farm3.static.flickr.com/2729/4270749668_7f1d516bc2.jpg)](http://www.flickr.com/photos/64918212@N00/4270749668/ "Prauliena 1927")
-
 I have good memories from Prauliena. We were all young: the manager was 27, and the cleaner, Ida Darkevics, was 26-27. Pay was also good; 100 lati and 3 santimi for first-quality butter. This came to 140-150 lati a month, which was good pay at the time (a part-experienced government worker would get 60 lati a month.) Also, all milk products were free: butter, milk, cream, cream cheese, as well as a room and heating. We bought very little; if we made a vegetable soup with lamb we all shared it. I bought all new clothes, the latest fashions; I was a real city boy now, not a country boy. Then I bought a push-bike.
 
 Soon after I arrived, a telephone exchange for the local farmers was opened at the factory. At first there were only thirty subscribers, but at that time it was a big event in the country. The exchange was put in the room I used. We all used it, for a small fee. Because we were all young, especially on weekends, we had a lot of visitors - for the young people it had become a meeting place. The farmers were well-off, butter at the time was expensive, even before the war the whole district had taken care to improve their herds – they had good thoroughbred, brown cows. Also, the standard of education was higher than in south Kurzeme, where I came from. The local farmer’s sons and daughters had finished schooling at Madona high school. There were also some who were studying medicine, pharmacy, or engineering.
